@@ -1,0 +1,170 @@
+[
+  {
+    "id": "9a8e637d",
+    "name": "White cotton tee",
+    "category": "top",
+    "color": "white",
+    "occasions": [
+      "casual",
+      "sports"
+    ],
+    "photo": null
+  },
+  {
+    "id": "8765169e",
+    "name": "Navy shirt",
+    "category": "top",
+    "color": "navy",
+    "occasions": [
+      "work",
+      "formal",
+      "casual"
+    ],
+    "photo": null
+  },
+  {
+    "id": "9bc2eaea",
+    "name": "Red crop top",
+    "category": "top",
+    "color": "red",
+    "occasions": [
+      "party",
+      "casual"
+    ],
+    "photo": null
+  },
+  {
+    "id": "e18fcfc7",
+    "name": "Blue jeans",
+    "category": "bottom",
+    "color": "denim",
+    "occasions": [
+      "casual",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "f6c8bda2",
+    "name": "Black trousers",
+    "category": "bottom",
+    "color": "black",
+    "occasions": [
+      "work",
+      "formal",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "ba9b827e",
+    "name": "Beige chinos",
+    "category": "bottom",
+    "color": "beige",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "photo": null
+  },
+  {
+    "id": "8f3b959f",
+    "name": "Olive joggers",
+    "category": "bottom",
+    "color": "olive",
+    "occasions": [
+      "sports",
+      "casual"
+    ],
+    "photo": null
+  },
+  {
+    "id": "4a6a532c",
+    "name": "Black dress",
+    "category": "dress",
+    "color": "black",
+    "occasions": [
+      "party",
+      "formal"
+    ],
+    "photo": null
+  },
+  {
+    "id": "efeb2833",
+    "name": "Yellow sundress",
+    "category": "dress",
+    "color": "yellow",
+    "occasions": [
+      "casual",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "18839b08",
+    "name": "White sneakers",
+    "category": "shoes",
+    "color": "white",
+    "occasions": [
+      "casual",
+      "sports"
+    ],
+    "photo": null
+  },
+  {
+    "id": "7b56f833",
+    "name": "Black loafers",
+    "category": "shoes",
+    "color": "black",
+    "occasions": [
+      "work",
+      "formal",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "0e6c467f",
+    "name": "Brown boots",
+    "category": "shoes",
+    "color": "brown",
+    "occasions": [
+      "casual",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "692bb869",
+    "name": "Denim jacket",
+    "category": "outerwear",
+    "color": "denim",
+    "occasions": [
+      "casual",
+      "party"
+    ],
+    "photo": null
+  },
+  {
+    "id": "2f8568f1",
+    "name": "Grey blazer",
+    "category": "outerwear",
+    "color": "grey",
+    "occasions": [
+      "work",
+      "formal"
+    ],
+    "photo": null
+  },
+  {
+    "id": "a28cbed7",
+    "name": "Green hoodie",
+    "category": "outerwear",
+    "color": "green",
+    "occasions": [
+      "sports",
+      "casual"
+    ],
+    "photo": null
+  }
+]
